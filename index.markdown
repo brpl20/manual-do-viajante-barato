@@ -28,6 +28,65 @@ Esse manual não tem custo, a informação é totalmente grátis, este site é f
 
 Você também pode participar da construção deste material, cada linha pode ser comentada, após moderação seu comentário poderá ser publicado, icorporado a esse material e enriquecer ainda mais o conteúdo. Guias e manuais de viajantes estão sempre em construção, não queremos ser aquele velho Guia Quatro Rodas que virou acumulador de poeira ao lado da enciclopédia.
 
+# Índice
+
+- [Guia do Viajante Barato - Como viajar barato?](#guia-do-viajante-barato---como-viajar-barato)
+- [Como usar este manual](#como-usar-este-manual)
+- [Índice](#índice)
+- [Real x Dolar x Euro - Câmbio e Suas Pegadinhas](#real-x-dolar-x-euro---câmbio-e-suas-pegadinhas)
+  - [Dinheiro e Saques](#dinheiro-e-saques)
+  - [Cartão de Crédito e Google/Apple Pay](#cartão-de-crédito-e-googleapple-pay)
+  - [Cartão de Débito Com Conversão Internacional](#cartão-de-débito-com-conversão-internacional)
+  - [Cartão Pré-Pago](#cartão-pré-pago)
+- [Estadia](#estadia)
+  - [Hotéis](#hotéis)
+  - [AirBnBs](#airbnbs)
+  - [Couchsurfing](#couchsurfing)
+  - [Hostels](#hostels)
+    - [A Cultura Hostel](#a-cultura-hostel)
+  - [Dia a Dia no Hostel](#dia-a-dia-no-hostel)
+    - [Atividades](#atividades)
+    - [Compartilhamento de Ambientes](#compartilhamento-de-ambientes)
+    - [Noite e o Sono](#noite-e-o-sono)
+    - [O ambiente feminino](#o-ambiente-feminino)
+    - [Grupos](#grupos)
+    - [Quarto Individual](#quarto-individual)
+    - [Banheiros](#banheiros)
+    - [Presepadas](#presepadas)
+    - [Dicas de Reserva do Hostel](#dicas-de-reserva-do-hostel)
+- [Mala - Travel Light](#mala---travel-light)
+  - [Mala - Itens Básicos de Vestimenta](#mala---itens-básicos-de-vestimenta)
+  - [Mala - Itens Úteis e Itens em Geral](#mala---itens-úteis-e-itens-em-geral)
+  - [Itens de Cozinha](#itens-de-cozinha)
+    - [Café da Manhã](#café-da-manhã)
+  - [Almoço](#almoço)
+  - [Janta](#janta)
+  - [Dicas de Compras de Alimentos](#dicas-de-compras-de-alimentos)
+- [O custo da Disponibilidade](#o-custo-da-disponibilidade)
+  - [Outros Itens Úteis](#outros-itens-úteis)
+- [Dicas sobre Restaurantes](#dicas-sobre-restaurantes)
+- [Compras](#compras)
+    - [Isenção de tributos e Restituição](#isenção-de-tributos-e-restituição)
+- [Kit Remédios](#kit-remédios)
+- [Passagens Aéreas](#passagens-aéreas)
+  - [Transporte](#transporte)
+    - [Transporte Intermunicipal](#transporte-intermunicipal)
+  - [A Viagem Pinga Pinga](#a-viagem-pinga-pinga)
+- [Playlist de Viagem](#playlist-de-viagem)
+- [Língua](#língua)
+- [Saúde](#saúde)
+  - [Seguro Saúde](#seguro-saúde)
+  - [Restrições e Regras Específicas de Cada País](#restrições-e-regras-específicas-de-cada-país)
+  - [Checklist da Saúde](#checklist-da-saúde)
+- [Planejamento com Antecedência](#planejamento-com-antecedência)
+- [Dicas de Segurança - Pick Pockets - Furtos](#dicas-de-segurança---pick-pockets---furtos)
+- [Esmolas e Pedintes](#esmolas-e-pedintes)
+- [Entradas para Locais e/ou Eventos](#entradas-para-locais-eou-eventos)
+- [Walking Tours](#walking-tours)
+- [WorldPackers e Voluntariado](#worldpackers-e-voluntariado)
+- [Mais um pouco sobre este manual](#mais-um-pouco-sobre-este-manual)
+- [Agradecimentos](#agradecimentos)
+
 # Real x Dolar x Euro - Câmbio e Suas Pegadinhas
 
 A primeira coisa que você tem que ter em mente é que o nosso dinheiro é uma verdadeira titica de :chicken: e quando você está fora do país percebe isso de forma tão clara e sente na pele os efeitos do câmbio. Então, a primeira forma de você economizar é fazendo as primeiras escolhas financeiras corretas.
@@ -392,7 +451,7 @@ Pela experiência que eu tive, com 10 euros eu podia comprar muita coisa, podia 
 
 Sugiro deixar um orçamento em aberto de uns 10 euros por dia, por pessoa. Você vai ter que ir ajustando esse orçamento conforme o local que você está. Se você está em Londres por exemplo, será um pouco mais caro, nos Estados Unidos outra realidade, na Espanha e em Portugal também duas realidades distintas, apesar da proximidade.
 
-Conforme a viagem avança você vai ajustando isso e minha sugestão, vai acumulando o que sobrar para você gastar em bons restaurantes. Por exemplo, meu orçamento era na base de 10 euros, durante três dias eu consegui me alimentar com apenas 10. Então posso fazer um jantar mais caprichado de 20 euros.  Você pode controlar seus gastos durante a viagem e poderá se presentear em lugares melhores gastando 20-30 euros em algumas refeições especiais, confira as [dicas sobre restaurantes](##Dicas-sobre-Restaurantes) para saber um pouco mais como encontrar locais legais. Confia em mim, os gastos com alimentação podem ser assutadores no final da viagem e te surpreender negativamente.
+Conforme a viagem avança você vai ajustando isso e minha sugestão, vai acumulando o que sobrar para você gastar em bons restaurantes. Por exemplo, meu orçamento era na base de 10 euros, durante três dias eu consegui me alimentar com apenas 10. Então posso fazer um jantar mais caprichado de 20 euros.  Você pode controlar seus gastos durante a viagem e poderá se presentear em lugares melhores gastando 20-30 euros em algumas refeições especiais, confira as dicas sobre restaurantes para saber um pouco mais como encontrar locais legais. Confia em mim, os gastos com alimentação podem ser assutadores no final da viagem e te surpreender negativamente.
 
 *E a experiência cultural? Eu quero aprender mais sobre a forma de comer da região e seus costumes, não posso ficar economizando assim!*: Você não sofrerá esse prejuízo, com esse método que eu criei você pode economizar e ainda sentir muito da experiência cultural. Como falei, a gente come em muito lugar ruim e sem graça, que sequer refletem a realidade dos costumes da região.
 
@@ -456,11 +515,17 @@ Bom, agora se eu te convenci a cozinhar e dei algumas dicas tem alguns itens que
 
 - **Kit de Limpeza:** Levar um kit de alcool gel e lenços nos seus apetrechos pessoais e quando você estiver passeando pelas cidades. Nunca se sabe quando você irá comer algo na rua e não irá conseguir se limpar direito. Ainda mais com o COVID por aí, sempre é bom ter álcool gel à mão, especialmente o brasilleiro que é bem mais barato que o europeu.
 
-- **VPN - Virtual Private Network:** Especialmente se você vai continuar trabalhando e realizando operações bancárias no Brasil ou sites com restrição de visualização (serviços de stream por exemplo). O VPN permite que você altere a localização do seu dispositivo para impedir que os sites de bloqueiem, assim você pode acessar suas contas bancárias por exemplo com toda segurança.
+- **VPN - Virtual Private Network:** Especialmente se você vai continuar trabalhando e realizando operações bancárias no Brasil ou sites com restrição de visualização (serviços de stream por exemplo). O VPN permite que você altere a localização do seu dispositivo para impedir que os sites de bloqueiem, assim você pode acessar suas contas bancárias por exemplo com toda segurança:
+
+- [ExpressVPN](https://www.expressvpn.com): Acabei optando por esse serviço, achei bem fácil de configurar e com opções em todos os sitemas operacionais e smartphones.
+
+- [NordiVPN](https://nordvpn.com): Também outra operadora bem famosa, porém, ainda não utilizei o serviço deles.
 
 - **Balança de Viagem:** Em todas as minhas viagens, a mala sempre vem mais carregada do que foi. Não tem jeito, você sempre quer uma lembrança, você quer uma memória, algo que te relembre aquele lugar ou momento maravilhoso, pode ser um chaveiro ou pode ser uma garrafa de vinho, não importa, tudo vai pesando no decorrer da sua viagem na mala. Assim, esse item é de extrema importância para você não chegar no aeroporto sem saber o peso da sua mala e pagar taxas absurdas. Fique atento que cada companhia tem um peso específico, por exemplo na KLM o peso na viagem internacional é de 25kg.
 
-- **Carregador Externo:** Algo que eu cuidava muito era para não ficar sem bateria do celular especialmente numa cidade totalmente desconhecida. Seria desesperador. Então um dispositivo para que você tenha uma vida extra de bateria é muito imporante.
+- **Carregador Externo - PowerBank:** Algo que eu cuidava muito era para não ficar sem bateria do celular especialmente numa cidade totalmente desconhecida. Seria desesperador. Então um dispositivo para que você tenha uma vida extra de bateria é muito imporante. Eu acabei não levando, mas me inspirei em um amigo meu:
+
+![powerbank](https://mjbespt2122.s3.us-west-2.amazonaws.com/powerbank.jpg)
 
 - **Adaptador Tomada:** O adaptador da tomada é um item que não pode faltar, leve um para seu celular e um para o seu computador ou tablet (ou qualquer dispositivo que você possua). Cuidado com esse modelo que ele é péssimo e fica caindo da tomada toda hora! Tente levar um modelo melhor especialmente se você possui Macbook, da marca yellow é muito bom.
 
@@ -482,7 +547,9 @@ Portanto, se você está com fome em um desses lugares, guarde um pouco de fôle
 
 Não tenha vergonha de perguntar para as pessoas, recepcionistas, colegas do hostel, comerciantes, algum lugar bom para comer, onde geralmente eles vão. Você pode se surpreender tanto pelo preço quanto pela qualidade da comida.
 
-Foi assim que eu descobri um ótimo restaurante chamado o "Último Porto" em Portugal. Claro que pedi um bacalhau assado. Pela qualidade do prato, a refeição saiu muito, mas muito mais em conta do que comer um bom bacalhau no Brasil e o local estava abarrotado de pessoas da própria região.
+Foi assim que eu descobri um ótimo restaurante chamado o "Último Porto" em Portugal. Claro que pedi um bacalhau assado. Pela qualidade do prato, a refeição saiu muito, mas muito mais em conta do que comer um bom bacalhau no Brasil e o local estava abarrotado de pessoas da própria região, foi onde eu tirei a minha foto do perfil que está no sobre, olha o prato:
+
+![ultimo-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/ultimo-porto.jpg)
 
 Comer fora é um hábito muito mais comum para os Europeus, é algo corriqueiro, então eles não podem sair todas as vezes em resturantes caros, precisa ser algo justo.
 
@@ -494,11 +561,19 @@ Tente evitar franquias e lugares muito extravagantes, geralmente não terão uma
 
 Os lugares tradicionais na Espanha e em Portugal são locais antigos, aqueles que você tem a impressão que não foi mudado nada de lugar nos últimos 30 anos, entrar nestes lugares e imaginar sua história e as pessoas que passaram por ali é uma verdadeira viagem no tempo.
 
+![o-buraco](https://mjbespt2122.s3.us-west-2.amazonaws.com/barzinho.jpg)
+
+![padaria-idoso](https://mjbespt2122.s3.us-west-2.amazonaws.com/idosopadaria.jpg)
+
 E óbvio, não deixe de provar as comidas famosas do local. Como os Pastéis de Nata (pastéis de belém como chamamos), Bacalhau, Bolinho de Bacalhau, Francesinha, Paeja. Esses pratos são um pouco mais complicados porque existem muitas variações e muitas formas de preparo. Em muitas ocasiões você vai querer provar em vários lugares diferentes. A francesinha por exemplo foi um prato que me surpreendeu, é uma mistura de pão, queijo, molho e vários tipos de carne, um pouco picante, que eu jamais esperava provar algo parecido em Portugal.
 
-Nas minhas buscas culinárias eu achava alguns lugares bem longe dos centros turísticos. Não tinha preguiça de ir porque a vontade de conhecer era muito grande, mesmo pegando duas linhas de metro e muitas estações até chegar. O problema, é que as vezes, depois de toda essa busca, o local simplesmente estava fechado! Portanto, não confie no Google para saber se o lugar está aberto ou fechado, vale a pena dar uma ligadinha e perguntar sobre reservas.
+![francesinha](https://mjbespt2122.s3.us-west-2.amazonaws.com/francesinha.jpg)
 
-Cuidado com os couverts, alguns lugares deixam três ou quatro itens na mesa, as vezes estraga até o seu apetite não tenha vergonha de recusar, fazem muito dinheiro em cima dos turistas com essa pegadinha do couvert.
+> Essa era uma francesinha um pouco mais "fency", do restaurante "O Brasão" um locar bem badalado, bastante turístico, porém, quem me recomendou foi o Nuno do Walking Tour, então acabei confiando e valeu muito a pena. O ambiente do lugar é incrível, com um atendimento espetacular e um couvert fantástico - nenhuma armadilha encontrada.
+
+Nas minhas buscas culinárias eu achava alguns lugares bem longe dos centros turísticos. Não tinha preguiça de ir porque a vontade de conhecer era muito grande, mesmo pegando duas linhas de metro e muitas estações até chegar. O problema, é que as vezes, depois de toda essa busca, o local simplesmente estava fechado! Portanto, **não confie no Google para saber se o lugar está aberto ou fechado**, vale a pena dar uma ligadinha e perguntar sobre reservas ou simplesmente para escutar alguém do outro lado da linha e não se surpreender.
+
+Eu falei dos couverts do restaurante acima, mas tome cuidado! Alguns lugares deixam três ou quatro itens na mesa, as vezes estraga até o seu apetite não tenha vergonha de recusar, fazem muito dinheiro em cima dos turistas com essa pegadinha do couvert.
 
 # Compras
 
@@ -510,7 +585,11 @@ Eu gostava muito de ir aos brechós, em Madri no bairro hipster de Malasagna com
 
 Existe uma rede de lojas chamado Humana que é um brechó profissionalizado, eu achei uma liquidação no meio de janeiro e cada peça era apenas 5 euros, comprei essa jaqueta de couro por este valor:
 
-De um modo ou de outro, basta você procurar como "second hand clothes" no Google maps, ou brechó, vintage. Você vai achar itens incríveis, de cores e estilos diferenciados, mesmos que sejam usados, basta selecionar os em boas condições e provavelmente jamais você irá encontrar algo parecido no Brasil por preços tão bons.
+![jaqueta-de-couro](https://mjbespt2122.s3.us-west-2.amazonaws.com/jaqueta-de-couro.jpg)
+
+> Dá pra ver que o nível deste Hostel é superior ao outro, com banheiro grande e dividido entre masculino, feminino e também chuveiro e toalete.
+
+De um modo ou de outro, basta você procurar como *second hand clothes* no Google maps, ou brechó, vintage. Você vai achar itens incríveis, de cores e estilos diferenciados, mesmos que sejam usados, basta selecionar os em boas condições e provavelmente jamais você irá encontrar algo parecido no Brasil por preços tão bons.
 
 Também existem lojas barateiras como a Primark que você pode explorar.
 
@@ -606,6 +685,14 @@ Claro que isso é uma informação específica. O interessante é você tentar b
 
 ## Seguro Saúde
 
+É obrigatório que você tenha um seguro de saúde com uma cobertura mínima de trinta mil dolares. Eu acabei não pesquisando muito sobre o tema na época, mas não havia grande variação de valores, também não é algo que eu goste de economizar para depois no momento de necessidade ficar na mão.
+
+Prefiro pegar companhias grandes e consolidadas com um bom atendimento, não vejo vantagem em ecomizar muito neste quesito. Já fiquei doente na europa em outra viagem e fui muito bem atendido, imprevistos acontecem.
+
+Também é essencial (porém não obrigatório) que você tenha uma cobertura extra contra COVID.
+
+Com o tempo vou fazer um apanhado mais específico e melhorar um pouco esse tópico.
+
 ## Restrições e Regras Específicas de Cada País
 
 Cada país tem uma regra específica, na Espanha por exemplo, eu precisei fazer um exame PCR negativo 72h antes do embarque e levar o certificado de vacinação, preenchendo um formulário específico no site do governo espanhol.
@@ -616,12 +703,12 @@ Busque as informações diretamente nos sites oficiais e evite intermediários, 
 
 ## Checklist da Saúde
 
-[ ] Certificado de Vacinação
-[ ] Teste PCR 72 **ou**
-[ ] Teste Antigeno 48 h
-[ ] Ou outra regra de Exame
-[ ] Seguro Saúde
-[ ] Formulários Locais (Ex. Formulário de Saúde da Espanha - Formulário Anvisa no Brasil)
+- [ ] Certificado de Vacinação
+- [ ] Teste PCR 72 **ou**
+- [ ] Teste Antigeno 48 h
+- [ ] Ou outra regra de Exame
+- [ ] Seguro Saúde
+- [ ] Formulários Locais (Ex. Formulário de Saúde da Espanha - Formulário Anvisa no Brasil)
 
 # Planejamento com Antecedência
 
@@ -641,7 +728,7 @@ Apesar da diferença brutal de segurança entre o Brasil e a Europa, realmente e
 
 Não fique distraído, tenha seus pertences no lugar, saiba onde eles estão. Tente manter uma rotina de colocar as coisas nos mesmos bolsos: Celular bolso esquerdo, carteira bolso direito e etc. Assim será mais fácil você cuidar de tudo.
 
-Já dei a dica aqui em (cima)[cimalinkponchete] leve uma ponchete, um porta dinheiro, qualquer coisa que fique colada no seu corpo a todo momento.
+Já dei a dica sobre alguns itens, leve uma ponchete, um porta dinheiro, qualquer coisa que fique colada no seu corpo a todo momento.
 
 Não leve todo dinheiro consigo, apenas suficiente para passar aquele dia.
 
@@ -677,15 +764,25 @@ Pesquise também passes de estudante e acesso diferenciado para idoso, por exemp
 
 Eu fiz apenas um Walking Tour durante a viagem e acabei me arrependendo de não ter feito mais. Foi em Porto, o guia era um Português muito simpático que ensinou muito a da cidade, a história de Portugal e até um pouco da história do Brasil.
 
-Não pense que somente um Walking Tour será suficiente para você conhecer a cidade, na verdade ele só vai te dar vontade de conhecer ainda mais o local, no Walking, não se entrará nos monumentos e locais, o passeio é apenas externo e o guia irá te dar mais dicas de locais legais para conhecer.
+Não pense que somente um Walking Tour será suficiente para você conhecer a cidade, na verdade ele só vai te dar vontade de conhecer ainda mais o local!
 
-Os passeios não são cobrados, porém, se pede uma contribuição ao final, uma gorgeta, um tip, a depender da qualidade do passeio e generosidade do viajante. No meu caso, acabei dando 5 Euros, o azoável.
+No Walking, a "turma" não entrará nos monumentos e locais, o passeio é apenas externo e o guia irá te dar mais dicas de locais legais para conhecer sozinho depois.
+
+Os passeios não são cobrados, porém, se pede uma contribuição ao final, uma gorgeta, tip. A depender da qualidade do passeio e generosidade do viajante. No meu caso, acabei dando 5 Euros.
 
 Geralmente os Hostels e Hoteis já indicam algum walking tour, deve haver um convênio ou vínculo de confiança entre eles.
 
-Tente aproveitar essas oportunidades, são pessoas que estão há muito tempo naquele local e têm uma caractéristica peculiar de estarem nessa vida turística, o que requer uma vocação específico.
+Tente aproveitar essas oportunidades, são pessoas que estão há muito tempo naquele local e têm uma caractéristica peculiar de estarem nessa vida turística, o que requer uma vocação específica.
 
-Se estiver em Porto, procure pelo guia Nuno da (Porto Walkers)[https://www.portowalkers.pt/see], ele é muito bom e divertido.
+Se estiver em Porto, procure pelo guia Nuno da (Porto Walkers)[https://www.portowalkers.pt/see], ele é muito bom e divertido. Nos fez transitar pela cidade por um caminho muito fácil, fiquei impressionado. Andei muito por aquela cidade íngrime mas nem me senti cansado, segredo é saber bem o relevo, o que é um aprendizado de anos.
+
+Da uma olhada nas fotos que eu tirei, e você ainda vai ter parceiros para tirar fotos para você!
+
+![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt1.jpg)
+![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt2.jpg)
+![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt3.jpg)
+![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt4.jpg)
+
 
 # WorldPackers e Voluntariado
 
@@ -717,3 +814,17 @@ Se você quiser pode me pagar um cafezinho :coffee: para me ajudar a continuar v
 
 # Agradecimentos
 
+As pessoas que tornaram essa viagem possível, minha família, meus amigos e colaboradores, as pessoas que eu conheci no decorrer da viagem, que me inspiraram e me ajudaram a crescer como ser humano.
+
+Obrigado por aqueles que se disponibilizaram a fornecer ferramentas incríveis para a construção deste site:
+
+- Jekyll
+- Ruby
+- Jemoji Gem
+- Markdown
+- Markdown All in One (Table of Contents Generator)
+- Github e Aws
+- Google Fonts
+
+
+Obriagdo
