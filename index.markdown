@@ -252,10 +252,12 @@ Você vai encontrar na cozinha e nas áreas comuns um ambiente aberto e propíci
 Tirar fotos sozinho não é fácil! Olha como eu tava bravo aqui em Lisboa tirando fotos de mim mesmo:
 
 ![Lisboa](https://mjbespt2122.s3.us-west-2.amazonaws.com/ground1.jpg)
+{: class="polaroid"}
 
 Depois eu consegui dar uma relaxada, colocava a máquina ou o celular apoiado em algum lugar para tirar:
 
 ![Lisboa2](https://mjbespt2122.s3.us-west-2.amazonaws.com/ground2.jpg)
+{: class="polaroid"}
 
 Fiz muitas amizades e muitos contatos, espero que me rendam mais histórias e boas viagens no futuro. De qualquer forma, aquela breve experiência com essas pessoas já foi o suficiente para causar um grande impacto em minha vida, ver outras formas de pensar e de se viver é incrível. **Obrigado a todas as pessoas que participaram disso!!**
 
@@ -328,6 +330,7 @@ Você terá acesso ao ambiente comum, poderá cozinhar e ainda desfrutar da melh
 Os banheiros podem ser comuns ou privativos, mistos ou separados. No começo é meio esquisito, mas depois de um tempo você se acostuma com as pessoas e suas vidas privadas, independente de origem ou sexo, olha eu aí em Valência, cheguei a noite neste Hostel e estava destruído, era um hostel bem barato e que tinha muitos imigrantes buscando uma nova oportunidade de vida, o banheiro era bem simples e compartilhado com todos, um por andar:
 
 ![banheiro-de-hostel](https://mjbespt2122.s3.us-west-2.amazonaws.com/banheiro-de-hostel.jpg)
+{: class="polaroid"}
 
 ### Presepadas
 
@@ -384,6 +387,7 @@ Em resumo, siga a regra #7 do Zombilândia: "Travel Light". Não fique carregand
 Outro ponto positivo de levar uma mala pequena é que você pode aproveitar de passagens promocionais por toda a Europa. As vezes você consegue ótimos negócios em uma faixa de 5 a 10 euros! Mas para isso você não pode despachar bagagem. Só pode levar o padrão: Uma mala de mão e uma pequena bolsa:
 
 ![mala-viagem-guia](https://mjbespt2122.s3.us-west-2.amazonaws.com/mala.jpg)
+{: class="polaroid"}
 
 Outra vantagem de viajar leve é que você evita a tentação interminável de fazer compras. Você não pode levar qualquer item do local, precisa manter sua mala intacta a novos itens e novas tentações, o que é um pouco menos difícil quando você fica sem a opção de encher sua mala com 20 e poucos kg de porcarias.
 
@@ -519,15 +523,21 @@ Bom, agora se eu te convenci a cozinhar e dei algumas dicas tem alguns itens que
 
 - [ExpressVPN](https://www.expressvpn.com): Acabei optando por esse serviço, achei bem fácil de configurar e com opções em todos os sitemas operacionais e smartphones.
 
-- [NordiVPN](https://nordvpn.com): Também outra operadora bem famosa, porém, ainda não utilizei o serviço deles.
+- [NordVPN](https://nordvpn.com): Também outra operadora bem famosa, porém, ainda não utilizei o serviço deles.
 
 - **Balança de Viagem:** Em todas as minhas viagens, a mala sempre vem mais carregada do que foi. Não tem jeito, você sempre quer uma lembrança, você quer uma memória, algo que te relembre aquele lugar ou momento maravilhoso, pode ser um chaveiro ou pode ser uma garrafa de vinho, não importa, tudo vai pesando no decorrer da sua viagem na mala. Assim, esse item é de extrema importância para você não chegar no aeroporto sem saber o peso da sua mala e pagar taxas absurdas. Fique atento que cada companhia tem um peso específico, por exemplo na KLM o peso na viagem internacional é de 25kg.
 
 - **Carregador Externo - PowerBank:** Algo que eu cuidava muito era para não ficar sem bateria do celular especialmente numa cidade totalmente desconhecida. Seria desesperador. Então um dispositivo para que você tenha uma vida extra de bateria é muito imporante. Eu acabei não levando, mas me inspirei em um amigo meu:
 
 ![powerbank](https://mjbespt2122.s3.us-west-2.amazonaws.com/powerbank.jpg)
+{: class="polaroid"}
 
-- **Adaptador Tomada:** O adaptador da tomada é um item que não pode faltar, leve um para seu celular e um para o seu computador ou tablet (ou qualquer dispositivo que você possua). Cuidado com esse modelo que ele é péssimo e fica caindo da tomada toda hora! Tente levar um modelo melhor especialmente se você possui Macbook, da marca yellow é muito bom.
+- **Adaptador Tomada:** O adaptador da tomada é um item que não pode faltar, leve um para seu celular e um para o seu computador ou tablet (ou qualquer dispositivo que você possua). Cuidado com o modelo universal que ele é péssimo e fica caindo da tomada toda hora! Tente levar um modelo melhor especialmente se você possui Macbook (não é o meu caso, mas é uma tomada americana parecida), porque a tomada é pesada, olha o que acontece abaixo.
+
+![adaptador](https://mjbespt2122.s3.us-west-2.amazonaws.com/tomada.gif)
+{: class="polaroidgif"}
+
+Eu vi um modelo suíço que parecia ser muito bom, o nome é [Skross](https://www.skross.com/en), porém ainda não cheguei a testar.
 
 - **Cadeado:** Para quem tem medo de ser roubado, como todo brasileiro, leve sempre um cadeado para você prender as coisas no seu locker. Muitos hostels já oferecem o serviço sem precisar do cadeado, porém não dá pra contar que todos sejam assim. Muitos ainda possuem o serviço tradicional em que você precisa levar o cadeado. Alguns embaixo da cama, outros em um armário no próprio quarto. É bom cuidar especialmente com máquinas fotográficas, documentos e notebooks.
 
@@ -550,6 +560,7 @@ Não tenha vergonha de perguntar para as pessoas, recepcionistas, colegas do hos
 Foi assim que eu descobri um ótimo restaurante chamado o "Último Porto" em Portugal. Claro que pedi um bacalhau assado. Pela qualidade do prato, a refeição saiu muito, mas muito mais em conta do que comer um bom bacalhau no Brasil e o local estava abarrotado de pessoas da própria região, foi onde eu tirei a minha foto do perfil que está no sobre, olha o prato:
 
 ![ultimo-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/ultimo-porto.jpg)
+{: class="polaroid"}
 
 Comer fora é um hábito muito mais comum para os Europeus, é algo corriqueiro, então eles não podem sair todas as vezes em resturantes caros, precisa ser algo justo.
 
@@ -562,12 +573,15 @@ Tente evitar franquias e lugares muito extravagantes, geralmente não terão uma
 Os lugares tradicionais na Espanha e em Portugal são locais antigos, aqueles que você tem a impressão que não foi mudado nada de lugar nos últimos 30 anos, entrar nestes lugares e imaginar sua história e as pessoas que passaram por ali é uma verdadeira viagem no tempo.
 
 ![o-buraco](https://mjbespt2122.s3.us-west-2.amazonaws.com/barzinho.jpg)
+{: class="polaroid"}
 
 ![padaria-idoso](https://mjbespt2122.s3.us-west-2.amazonaws.com/idosopadaria.jpg)
+{: class="polaroid"}
 
 E óbvio, não deixe de provar as comidas famosas do local. Como os Pastéis de Nata (pastéis de belém como chamamos), Bacalhau, Bolinho de Bacalhau, Francesinha, Paeja. Esses pratos são um pouco mais complicados porque existem muitas variações e muitas formas de preparo. Em muitas ocasiões você vai querer provar em vários lugares diferentes. A francesinha por exemplo foi um prato que me surpreendeu, é uma mistura de pão, queijo, molho e vários tipos de carne, um pouco picante, que eu jamais esperava provar algo parecido em Portugal.
 
 ![francesinha](https://mjbespt2122.s3.us-west-2.amazonaws.com/francesinha.jpg)
+{: class="polaroid"}
 
 > Essa era uma francesinha um pouco mais "fency", do restaurante "O Brasão" um locar bem badalado, bastante turístico, porém, quem me recomendou foi o Nuno do Walking Tour, então acabei confiando e valeu muito a pena. O ambiente do lugar é incrível, com um atendimento espetacular e um couvert fantástico - nenhuma armadilha encontrada.
 
@@ -586,6 +600,7 @@ Eu gostava muito de ir aos brechós, em Madri no bairro hipster de Malasagna com
 Existe uma rede de lojas chamado Humana que é um brechó profissionalizado, eu achei uma liquidação no meio de janeiro e cada peça era apenas 5 euros, comprei essa jaqueta de couro por este valor:
 
 ![jaqueta-de-couro](https://mjbespt2122.s3.us-west-2.amazonaws.com/jaqueta-de-couro.jpg)
+{: class="polaroid"}
 
 > Dá pra ver que o nível deste Hostel é superior ao outro, com banheiro grande e dividido entre masculino, feminino e também chuveiro e toalete.
 
@@ -691,7 +706,7 @@ Prefiro pegar companhias grandes e consolidadas com um bom atendimento, não vej
 
 Também é essencial (porém não obrigatório) que você tenha uma cobertura extra contra COVID.
 
-Com o tempo vou fazer um apanhado mais específico e melhorar um pouco esse tópico.
+No meu caso eu fiz o seguro com a Lojacorr, cartão Vital Card, cobertura de 30 mil euros + 20 mil euros Covid idade 35 anos :see_no_evil: 36 dias (tem que incluir desde o embarque) no valor de R$ 1.210,00.
 
 ## Restrições e Regras Específicas de Cada País
 
@@ -779,9 +794,16 @@ Se estiver em Porto, procure pelo guia Nuno da (Porto Walkers)[https://www.porto
 Da uma olhada nas fotos que eu tirei, e você ainda vai ter parceiros para tirar fotos para você!
 
 ![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt1.jpg)
+{: class="polaroid"}
+
 ![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt2.jpg)
+{: class="polaroid"}
+
 ![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt3.jpg)
+{: class="polaroid"}
+
 ![walking-tour-porto](https://mjbespt2122.s3.us-west-2.amazonaws.com/wt4.jpg)
+{: class="polaroid"}
 
 
 # WorldPackers e Voluntariado
@@ -800,31 +822,27 @@ A maioria dos hostels oferece um trabalho de 4 a 6 horas diárias com dois dias 
 
 O aplicativo Workdpackers ajuda nesta missão, existe uma mensalidade anual de R$ .... para você poder utilizar a plataforma, que possui muitos hostels e locais parceiros e vi muitos voluntários usando o aplicativo com boas referências.
 
-Existem outras opções, como por exemplo o site {yellow}, mas não cheguei a pesquisar ou conhecer pessoas que tiveram experiência nestes sites ou outros aplicativos.
+Existem outras opções, como por exemplo o site [HelpX](https://www.helpx.net/), mas não cheguei a pesquisar ou conhecer pessoas que tiveram experiência nestes sites ou outros aplicativos.
 
 # Mais um pouco sobre este manual
 
-Este manual é totalmente grátis. Você pode compartilhar da maneira que quiser.
+Este manual é totalmente grátis. Você pode compartilhar com quem quiser, da maneira que quiser. Não há nenhuma pegadinha, informações ocultas ou materiais a venda. **DE NADA!**.
 
-Neste site é mantido com dinheiro particular e adicionei ferramentas de marketing e programas de referência, por exemplo dos itens que colocamos aqui.
+# Agradecimentos - Thanks
 
-Caso você tenha interesse, este conteúdo será disponibilizado em breve em PDF também pela Amazon no valor de R$ 10,00.
+As pessoas que tornaram essa viagem possível, minha família, meus amigos, clientes e colaboradores e todos que participaram de forma direta ou indireta em especial em momentos difíceis que eu precisei de ajuda.
 
-Se você quiser pode me pagar um cafezinho :coffee: para me ajudar a continuar viajando e escrevendo sobre isso. Eu também faço anúncios neste site e faço referências a produtos afiliados, recebendo uma pequena comissão caso você os adquira. Porém, fique tranquilo, que o objetivo maior é compartilhar a informação contigo.
+A special thanks to all those who crossed my path and somehow taught me something positive or negative about life. Keep the vibe and that light in you. Saudades. Cheers! :beers:
 
-# Agradecimentos
+## Opensource Bros
 
-As pessoas que tornaram essa viagem possível, minha família, meus amigos e colaboradores, as pessoas que eu conheci no decorrer da viagem, que me inspiraram e me ajudaram a crescer como ser humano.
+Obrigado por aqueles que se disponibilizaram a fornecer ferramentas opensource incríveis, disponibilizaram seu conhecimento e tempo para a construção deste site:
 
-Obrigado por aqueles que se disponibilizaram a fornecer ferramentas incríveis para a construção deste site:
-
-- Jekyll
-- Ruby
-- Jemoji Gem
+- Jekyll and Ruby
+- Jemoji Gem;
+- CSS Tricks
 - Markdown
 - Markdown All in One (Table of Contents Generator)
 - Github e Aws
 - Google Fonts
-
-
-Obriagdo
+- w3schools

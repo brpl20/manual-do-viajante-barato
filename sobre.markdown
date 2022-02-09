@@ -4,7 +4,6 @@ title: sobre
 permalink: /sobre/
 ---
 
-Meu nome é Bruno Pellizzetti e eu fiz uma viajem para a Espanha e Portugal no final de 2021 e início de 2022. Era para ser uma viagem relaxar e aproveitar o fim da pandemia que não era o fim da pandemia. Aprendi mais sobre mim mesmo do que sobre qualquer coisa e um desses aprendizados é que eu gosto mais de escrever e compartilhar do que tirar fotos, esquero que você aproveite este manual.
+![profile-bruno-pellizzetti](https://mjbespt2122.s3.us-west-2.amazonaws.com/profile1small.jpg){: class="user"}
 
-![profile-bruno-pellizzetti](https://mjbespt2122.s3.us-west-2.amazonaws.com/profile.jpg)
-
+Esse mala aí se chama Bruno Pellizzetti, fez uma viajem para a Espanha e Portugal no final de 2021/2022 e achou interessante compartilhar algumas coisas neste "meio manual, meio blog". Era para ser uma viagem para relaxar e comemorar o ~~fim da pandemia~~ e no fim das contas, ele aprendeu mais sobre si mesmo do que sobre qualquer coisa, especialmente, que é ligeiramente melhor em produzir textos do que produzir imagens (_como você deve ter percebido_). Ele viaja, programa, lê, adora fazer drinks e cozinhar para as pessoas que ama, nas horas vagas atua como advogado previdenciário e empreendedor.
