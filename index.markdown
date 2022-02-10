@@ -85,7 +85,9 @@ Você também pode participar da construção deste material, cada linha pode se
 - [Walking Tours](#walking-tours)
 - [WorldPackers e Voluntariado](#worldpackers-e-voluntariado)
 - [Mais um pouco sobre este manual](#mais-um-pouco-sobre-este-manual)
-- [Agradecimentos](#agradecimentos)
+- [E aí Bruno, você falou falou falou, e não disse nada, quanto vou gastar afinal!?](#e-aí-bruno-você-falou-falou-falou-e-não-disse-nada-quanto-vou-gastar-afinal)
+- [Agradecimentos - Thanks](#agradecimentos---thanks)
+  - [Opensource Bros](#opensource-bros)
 
 # Real x Dolar x Euro - Câmbio e Suas Pegadinhas
 
@@ -219,7 +221,10 @@ Não tenho muito o que falar sobre os AirBnbs, um ponto de repouso, um quarto ou
 
 Mas também não são uma opção tão em conta para o viajante individual, que provavelmente terá que optar por um quarto compartilhando o ambiente com o anfitrião. Tome cuidado com a taxa de limpeza e serviço que podem encarecer o custo especialmente em estadias rápidas. Essa taxa é estipulada pelo anfitrião, então é um valor aleatório que muda muito de acordo com a pessoa que está disponibilizando o local e não pela região ou o custo real do serviço.
 
-**Dica do AirBnB:** O AirBnB disponibiliza também *experiências*, são passeios turísticos, caminhadas, sessão de fotos, rotas de vinho, aulas de surf, culinária, enfim, uma série de atrações legais que podem enriquecer sua viagem. *Eu aprendi a fazer pasteis de nata (pasteis de belém como os brasileiros dizem)!*
+**Dica do AirBnB:** O AirBnB disponibiliza também *experiências*, são passeios turísticos, caminhadas, sessão de fotos, rotas de vinho, aulas de surf, culinária, enfim, uma série de atrações legais que podem enriquecer sua viagem. *Eu aprendi a fazer pasteis de nata!*
+
+![Lisboa](https://mjbespt2122.s3.us-west-2.amazonaws.com/pastel-de-nata.jpg)
+{: class="polaroid"}
 
 ## [Couchsurfing](https://www.couchsurfing.com/)
 
@@ -827,6 +832,50 @@ Existem outras opções, como por exemplo o site [HelpX](https://www.helpx.net/)
 # Mais um pouco sobre este manual
 
 Este manual é totalmente grátis. Você pode compartilhar com quem quiser, da maneira que quiser. Não há nenhuma pegadinha, informações ocultas ou materiais a venda. **DE NADA!**.
+
+# E aí Bruno, você falou falou falou, e não disse nada, quanto vou gastar afinal!?
+
+Olha, eu também gostaria de ter a resposta mágica para essa pergunta mágica. Mas isso não existe. Cada um vai fazer a viagem conforme seus interesses, seus sonhos e sua história.
+
+Eu por exemplo, sempre tive vontade de viajar de carro pela Europa, então aluguei um carro e não me importei com os custos.
+
+Estava em Granada e tive vontade de esquiar, então eu fiz isso.
+
+Seus interesses serão diferentes dos meus, as cidades, os passeios, o tipo de estadia, os lugares para comer, sair e beber também serão diferentes, então obviamente eu não posso transpor a minha realidade para a sua realidade.
+
+> **CALMA**! Vamos lá. Isso vai dar trabalho, mas é possível fazer um orçamento sim. Vamos em frente meu amigo viajante, siga esse pequeno roteiro, que você vai conseguir planejar, hoje as coisas são simples, basta você ter um pouco de tempo e paciência que é plenamente possível fazer um orçamento de viagem de forma muito precisa.
+
+1. Defina primeiro a data e a duração da viagem: Esse é o primeiro passo e que vai definir a média de custos da sua viagem. O custo da disponibilidade também se aplica, e muito, à época do ano. _Eu recomendo você viajar na baixa temporada, que seria o inverno deles e é bem a nossa época de descanso (Dezembro/Janeiro). Não tenha medo do frio, é mais uma experiência diferente que você vai aproveitar. Só tome cuidado com países do norte e do leste (Polônia por exemplo) que a temperatura é muito baixa para o nosso padrão tropical._ OK?
+
+
+2. Contabilize o custo da passagem aérea e todos os adicionais que você por acaso escolher.
+
+3. Defina os locais de estadia. Você se convenceu das vantagens do Hostel? Vai encarar, ou vai ficar no AirBnb ou em um Hotel tradicional? Qual é o nível de hotel você procura? Quem mais irá contigo ou será uma viagem solo? Pronto (*como dizem os portugueses*).
+
+4. Já pensou nas cidades que você vai? Cuidado. Quanto mais cidades, maior o custo de locomoção e menor o aproveitamento. Agora, vá nos sites de reservas e simule os custos de estadia.
+
+5. Veja os eventos que você tem interesse? Quanto custa museu X, igreja y? Jogo de futebol? Conhecer estádio? Quero fazer x y e z nesta viagem?
+
+6. Simule agora os custos de transporte de uma cidade para outra.
+
+7. Não se esqueca dos custos de transporte na cidade. Geralmente o metrô é a melhor opção, varia de 1.5 euros até 4.5. Em cidades grandes você pode precisar de até duas viagens por dia, então são quatro tickets (2 x ida e volta).
+
+> Para melhorar esses custos, pesquise bem os roteiros da cidade em sites específicos. Para ter uma base baixa calculo pelo menos 2 tickets por dia ou 3, que seria uma média entre os dias que você usa 3 ou 4.
+
+8. Adicione os custos de alimentação. Você vai cozinhar? Comer fora? Faça seu sua base de acordo com o que eu escrevi sobre isso no item específico, exagere um pouco e seu orçamento para este item está nota 10.
+
+9.  Faça cotações do seguro de viagem e adicione à planilha. Também custos com exames de Covid. Novamente, quanto mais você viajar, especialmente de avisão, maior será o custo deste item.
+
+10. Adicione seu toque especial: Você é baladeiro? Veja quanto custa a entrada dos locais. Você gosta de beber muito fora? Adicione uma boa quantidade de euros neste item.
+
+11. Outros Custos:
+  - Lavanderia: Uns 8 euros por semana;
+  - Chip e Internet: Uns 20 euros;
+  - VPN: uns 5 euros;
+
+12. Custo de itens duráveis: Também é importante, mesmo que sejam utilizados em outras viagens, estes custos podem ser elevados: Um celular, uma câmera, roupas de frio, mochilas, bolsas etc.
+
+Pronto. Espero que você chegue a um valor razoável.
 
 # Agradecimentos - Thanks
 
