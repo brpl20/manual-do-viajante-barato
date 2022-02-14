@@ -15,4 +15,4 @@ gem "minima", "~> 2.5"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 # Outras
-# gem 'jemoji'
+gem 'jemoji', "~>0.10.0"
