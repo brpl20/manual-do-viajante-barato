@@ -6,16 +6,6 @@ layout: home
 ---
 # Guia do Viajante Barato - Como viajar barato?
 
-U+1F602
-
-\U+1F602
-
-\_U+1F602\_
-
-😂
-
-👀
-
 Viajar, provavelmente é uma das experiências mais engrandecedoras que podemos experimentar. Aprendemos novas culturas, temos diferentes experiências, contemplamos obras magníficas da humanidade e/ou da natureza e ampliamos nosso paladar e nossos gostos culinários.
 
 Depois dessa minha última viagem a Espanha/Portugal no final de 2021 e início de 2022 tive mais certeza ainda dessas afirmações.
@@ -148,7 +138,7 @@ De qualquer forma, ainda vou falar um pouquinho sobre cada tipo de foram de paga
 
 A vantagem do dinheiro é que ele é aceito globalmente, em qualquer estabelecimento, em qualquer lugar. Não existe restrição e não existe risco de recusa. Opte sempre por notas de até 50 euros ou você pode ter problemas para realizar transações. Os comerciantes não aceitam notas grandes (200-500 euros) e você vai precisar gastar tempo em um banco para trocar, como aconteceu comigo na Itália anos atrás.
 
-Se você está viajando sozinho eu recomendo levar um pouco mais de dinheiro, proporcionalmente aos seus dias de viagem. Meu vôo saiu do Brasil com conexão em Amsterdã para depois chegar em Valência. No meio desta conexão passei pela aduana no Aeroporto Schiphol de Amsterdã e o rapaz da alfandega desconfiou das minhas, digamos, *boas intenções* :roll_eyes:. Eu tinha apenas 400 euros em dinheiro para um mês de viagem e sequer tinha reservas de todos os hoteis/hosteis.
+Se você está viajando sozinho eu recomendo levar um pouco mais de dinheiro, proporcionalmente aos seus dias de viagem. Meu vôo saiu do Brasil com conexão em Amsterdã para depois chegar em Valência. No meio desta conexão passei pela aduana no Aeroporto Schiphol de Amsterdã e o rapaz da alfandega desconfiou das minhas, digamos, *boas intenções* 🙄. Eu tinha apenas 400 euros em dinheiro para um mês de viagem e sequer tinha reservas de todos os hoteis/hosteis.
 
 > Neste quesito eu acabei optando mais pela liberdade do que pela economia: não gosto de ter toda a viagem delimitada, no máximo só até a metade, prefiro gastar um pouco mais e ter uma margem de liberdade para escolher meu rumo no decorrer da viagem.
 
@@ -442,13 +432,16 @@ Eu tomei água da torneira de todas as cidadades que eu fui (Valência, Madri, G
 
 > Aparentemente uma maldição recai sobre mim, eu não posso ter mais de um óculos em uso, quando eu comprei um óculos de sol para substituir o meu anterior, acabei perdendo o de grau, que até agora eu não substituí por medo da zica que paira sobre as minhas coisas.
 
-Fora isso, perdi um shampoo, um pote de azeite de oliva espanhol de 6 euros :money_with_wings:. Por sorte eu não perdi nenhum item importante como minha carteira, cartão de crédito, identidade ou meu passaporte :smiles:, mas perder coisas é uma constante para mim.
+Fora isso, perdi um shampoo, um pote de azeite de oliva espanhol de 6 euros 💸. Por sorte eu não perdi nenhum item importante como minha carteira, cartão de crédito, identidade ou meu passaporte 😅, mas perder coisas é uma constante para mim.
+
+![mala-viagem-guia](https://mjbespt2122.s3.us-west-2.amazonaws.com/azeite-perdido.jpg)
+{: class="polaroid"}
 
 Minha recomendação é que você compra uma daquelas bolsas de colocar no peito ou na cintura, qualquer coisa, mas não conte apenas com seus bolsos, e por favor, tenha cuidado e coloque seus óculos em um local seguro.
 
-Leve a bolsa sempre bem apertada não use nada que fique pendurado, pode ser arriscado também por conta de ladrões que cortam as alças e você pode nem sentir (por exemplo no metro lotado). Vou dar umas dicas de segurança mais a frente. Continue lendo e não fique pulando tópicos ein, estou de olho :eyes:.
+Leve a bolsa sempre bem apertada não use nada que fique pendurado, pode ser arriscado também por conta de ladrões que cortam as alças e você pode nem sentir (por exemplo no metro lotado). Vou dar umas dicas de segurança mais a frente. Continue lendo e não fique pulando tópicos ein, estou de olho 👀.
 
-Uma dica é nunca largar tirar essa pochete/bolsa de perto de si. Mesmo se você estiver sentado, comendo ou relaxando em qualquer lugar, mantenha sempre atada ao seu corpo. **A grande parte dos esquecimentos ocorre quando a gente sai do local de respouso! Pelo menos é uma teoria que eu tenho :laughing:** Não corra o risco de deixar de lado e simplesmente esquecer quando você for embora, esse é um item que vai te trazer muito prejuízo se você perder.
+Uma dica é nunca largar tirar essa pochete/bolsa de perto de si. Mesmo se você estiver sentado, comendo ou relaxando em qualquer lugar, mantenha sempre atada ao seu corpo. **A grande parte dos esquecimentos ocorre quando a gente sai do local de respouso! Pelo menos é uma teoria que eu tenho 🤣.** Não corra o risco de deixar de lado e simplesmente esquecer quando você for embora, esse é um item que vai te trazer muito prejuízo se você perder.
 
 Dê uma conferida em alguns modelos:
 
@@ -526,7 +519,7 @@ Bom, agora se eu te convenci a cozinhar e dei algumas dicas tem alguns itens que
 
 - **Sal, Azeite e Temperos:** Geralmente sal, temperos básicos e um óleo são possíveis conseguir no hostel e airbnb, mas vale a pena levar alguns pacotinhos com o que você deseja, um azeite de oliva que você pode fazer praticamente qualquer coisa e ainda comer puro com um bom pão local por exemplo, alguns sachês de shoyo também sejam bem úteis dependendo do seu gosto.
 
-- **Jogo de Talheres:** Eu também acho interessante levar um joguinho de talheres, uma colher, um garfo, uma faca, você pode comer durante suas viagens e passeios turísticos e não vai precisar furtar de nenhum lugar :smirck:.
+- **Jogo de Talheres:** Eu também acho interessante levar um joguinho de talheres, uma colher, um garfo, uma faca, você pode comer durante suas viagens e passeios turísticos e não vai precisar furtar de nenhum lugar 😏.
 
 ## Outros Itens Úteis
 
@@ -721,7 +714,7 @@ Prefiro pegar companhias grandes e consolidadas com um bom atendimento, não vej
 
 Também é essencial (porém não obrigatório) que você tenha uma cobertura extra contra COVID.
 
-No meu caso eu fiz o seguro com a Lojacorr, cartão Vital Card, cobertura de 30 mil euros + 20 mil euros Covid idade 35 anos :see_no_evil: 36 dias (tem que incluir desde o embarque) no valor de R$ 1.210,00.
+No meu caso eu fiz o seguro com a Lojacorr, cartão Vital Card, cobertura de 30 mil euros + 20 mil euros Covid idade 35 anos 🙈 36 dias (tem que incluir desde o embarque) no valor de R$ 1.210,00.
 
 ## Restrições e Regras Específicas de Cada País
 
@@ -847,11 +840,20 @@ Este manual é totalmente grátis. Você pode compartilhar com quem quiser, da m
 
 Olha, eu também gostaria de ter a resposta mágica para essa pergunta mágica. Mas isso não existe. Cada um vai fazer a viagem conforme seus interesses, seus sonhos e sua história.
 
-Eu por exemplo, sempre tive vontade de viajar de carro pela Europa, então aluguei um carro e não me importei com os custos.
+Eu por exemplo, sempre tive vontade de viajar de carro pela Europa, então aluguei um carro e não me importei com os custos, que não foram baratos, considerando diária e combustível.
 
-Estava em Granada e tive vontade de esquiar, então eu fiz isso.
+![carro](https://mjbespt2122.s3.us-west-2.amazonaws.com/carro.jpg)
+{: class="polaroid"}
+
+Estava em Granada e tive vontade de esquiar, então eu fiz isso, foi um gasto alto e não previsto, mas valeu a pena, assim como você terá experiências imprevisíveis no meio do caminho:
+
+![snow](https://mjbespt2122.s3.us-west-2.amazonaws.com/snow.jpg)
+{: class="polaroid"}
 
 Seus interesses serão diferentes dos meus, as cidades, os passeios, o tipo de estadia, os lugares para comer, sair e beber também serão diferentes, então obviamente eu não posso transpor a minha realidade para a sua realidade.
+
+![a-pint-of-booze](https://mjbespt2122.s3.us-west-2.amazonaws.com/pint-of-booze.jpg)
+{: class="polaroid"}
 
 > **CALMA**! Vamos lá. Isso vai dar trabalho, mas é possível fazer um orçamento sim. Vamos em frente meu amigo viajante, siga esse pequeno roteiro, que você vai conseguir planejar, hoje as coisas são simples, basta você ter um pouco de tempo e paciência que é plenamente possível fazer um orçamento de viagem de forma muito precisa.
 
@@ -891,17 +893,17 @@ Pronto. Espero que você chegue a um valor razoável.
 
 As pessoas que tornaram essa viagem possível, minha família, meus amigos, clientes e colaboradores e todos que participaram de forma direta ou indireta em especial em momentos difíceis que eu precisei de ajuda.
 
-A special thanks to all those who crossed my path and somehow taught me something positive or negative about life. Keep the vibe and that light in you. Saudades. Cheers! :beers:
+A special thanks to all those who crossed my path and somehow taught me something positive or negative about life. Keep the vibe and that light in you. Saudades. Cheers! 🍻
 
 ## Opensource Bros
 
 Obrigado por aqueles que se disponibilizaram a fornecer ferramentas opensource incríveis, disponibilizaram seu conhecimento e tempo para a construção deste site:
 
 - Jekyll and Ruby
-- Jemoji Gem;
 - CSS Tricks
 - Markdown
 - Markdown All in One (Table of Contents Generator)
 - Github e Aws
 - Google Fonts
 - w3schools
+- Etc Etc
