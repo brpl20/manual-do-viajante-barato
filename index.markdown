@@ -6,6 +6,12 @@ layout: home
 ---
 # Guia do Viajante Barato - Como viajar barato?
 
+U+1F602
+
+\U+1F602
+
+\_U+1F602
+
 Viajar, provavelmente é uma das experiências mais engrandecedoras que podemos experimentar. Aprendemos novas culturas, temos diferentes experiências, contemplamos obras magníficas da humanidade e/ou da natureza e ampliamos nosso paladar e nossos gostos culinários.
 
 Depois dessa minha última viagem a Espanha/Portugal no final de 2021 e início de 2022 tive mais certeza ainda dessas afirmações.
