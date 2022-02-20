@@ -10,7 +10,11 @@ U+1F602
 
 \U+1F602
 
-\_U+1F602
+\_U+1F602\_
+
+😂
+
+👀
 
 Viajar, provavelmente é uma das experiências mais engrandecedoras que podemos experimentar. Aprendemos novas culturas, temos diferentes experiências, contemplamos obras magníficas da humanidade e/ou da natureza e ampliamos nosso paladar e nossos gostos culinários.
 
