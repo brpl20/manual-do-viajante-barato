@@ -443,11 +443,7 @@ Leve a bolsa sempre bem apertada não use nada que fique pendurado, pode ser arr
 
 Uma dica é nunca largar tirar essa pochete/bolsa de perto de si. Mesmo se você estiver sentado, comendo ou relaxando em qualquer lugar, mantenha sempre atada ao seu corpo. **A grande parte dos esquecimentos ocorre quando a gente sai do local de respouso! Pelo menos é uma teoria que eu tenho 🤣.** Não corra o risco de deixar de lado e simplesmente esquecer quando você for embora, esse é um item que vai te trazer muito prejuízo se você perder.
 
-Dê uma conferida em alguns modelos:
-
-* Pochete:
-* Bolsa Tiracolo:
-* Mochilas:
+Dê uma conferida em alguns modelos de pochete, bolsas e mochilas.
 
 ## Itens de Cozinha
 
